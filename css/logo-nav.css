@@ -27,7 +27,7 @@ body {
 }
 
 /*changes the nav colors*/
-.navbar-inverse .navbar-nav> li > a {color: #f0f; background-color: #fff;
+.navbar-inverse .navbar-nav> li > a {   color: #f0f; background-color: #fff;
 }
 
  .jumbotron {
