@@ -27,7 +27,7 @@ body {
 }
 
 /*changes the nav colors*/
-.navbar-inverse .navbar-nav> li> a {color:#f0f;
+.navbar-inverse .navbar-nav> li > a {color:#f0f; background-color:#f00;
 }
 
  .jumbotron {
@@ -36,3 +36,5 @@ body {
       padding: 25px 25px;
       font-family: Montserrat, sans-serif;
   }
+
+.p  {
