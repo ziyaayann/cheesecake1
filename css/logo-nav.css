@@ -27,12 +27,12 @@ body {
 }
 
 /*changes the nav colors*/
-.navbar-inverse .navbar-nav> li > a {   color: #f0f; background-color: #fff;
+.navbar-inverse .navbar-nav> li> a {   color: #f0f; background-color: #fff;
 }
 
  .jumbotron {
       background-color: #f0f0f0;
-      color: #fff;
+      color: #f00;
       padding: 25px 25px;
       font-family: Montserrat, sans-serif;
   }
