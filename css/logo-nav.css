@@ -27,7 +27,10 @@ body {
       font-family: Montserrat, sans-serif;
   }
 
-.p  {
+
+    
+.navbar-inverse { color:#0f0;
+    }
 
 @media(min-width:768px) {
     body {
