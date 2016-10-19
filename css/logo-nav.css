@@ -25,3 +25,6 @@ body {
         padding: 15px 0;
     }
 }
+
+.navbar-inverse .navbar-nav> li> a {color:#776;
+}
