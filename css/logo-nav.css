@@ -30,7 +30,7 @@ body {
 }
 
 /*changes the nav colors*/
-.navbar-inverse .navbar-nav> li > a { color: #f00;
+.navbar-inverse .navbar-nav> li > a{ color: #f00;
 }
 
  .jumbotron {
