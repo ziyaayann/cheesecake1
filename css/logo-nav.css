@@ -23,15 +23,16 @@ body {
     padding: 0 15px;
 }
 
-/*changes the entire nav background-color*/
-.navbar-inverse { color:#6600ff;
+/*changes the nav background-color*/
+.navbar-inverse { 
+    background-color:#60f;
     }
 
-
 /*changes the nav font colors*/
-.navbar-inverse .navbar-nav >li > a {
+.navbar-inverse .navbar-nav > li >a{
     color:#f0f; 
 }
+
 
  .jumbotron {
       background-color:#a366ff;
