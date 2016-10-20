@@ -13,7 +13,7 @@ body {
 }
 
 .navbar-fixed-top .navbar-brand {
-    padding: 0 15px;
+    padding: 15px 0;
 }
 
 @media(min-width:768px) {
@@ -26,15 +26,16 @@ body {
     }
 }
 
+.navbar-inverse{background-color:#f5f5dc;
+}
+
 /*changes the nav colors*/
 .navbar-inverse .navbar-nav> li > a { color: #f00;
 }
 
  .jumbotron {
-      background-color: #f0f0f0;
-      color: #f00;
-      padding: 25px 25px;
-      font-family: Montserrat, sans-serif;
+      background-color: #f00;
+      
   }
 
 
