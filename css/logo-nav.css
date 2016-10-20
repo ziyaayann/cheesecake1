@@ -8,7 +8,7 @@ body {
     padding-top: 70px; /* Required padding for .navbar-fixed-top. Change if height of navigation changes. */
 }
 
-*/controls the width of the carousel*/
+/*controls the width of the carousel*/
 .carousel-inner > .item > img,
   .carousel-inner > .item > a > img {
       width: 70%;
@@ -29,11 +29,11 @@ body {
 
 
 /*changes the nav font colors*/
-.navbar-inverse .navbar-nav >li > a {color: #f0f; 
+.navbar-inverse .navbar-nav >li > a {color:#f0f; 
 }
 
  .jumbotron {
-      background-color: #f0f0f0;
+      background-color: #a366ff;
       color: #f00;
       padding: 25px 25px;
       font-family: Montserrat, sans-serif;
