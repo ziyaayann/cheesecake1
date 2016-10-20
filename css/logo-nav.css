@@ -4,17 +4,16 @@
  * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap/blob/gh-pages/LICENSE)
  */
 
+/*
+ * Start Bootstrap - Logo Nav (http://startbootstrap.com/)
+ * Copyright 2013-2016 Start Bootstrap
+ * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap/blob/gh-pages/LICENSE)
+ */
+
 body {
     padding-top: 70px; /* Required padding for .navbar-fixed-top. Change if height of navigation changes. */
 }
 
-/*controls the width of the carousel*/
-.carousel-inner > .item > img,
-  .carousel-inner > .item > a > img {
-      width: 70%;
-      margin: auto;
-  }
-  
 .navbar-fixed-top .nav {
     padding: 15px 0;
 }
@@ -22,25 +21,6 @@ body {
 .navbar-fixed-top .navbar-brand {
     padding: 0 15px;
 }
-
-/*changes the nav background-color*/
-.navbar-inverse { 
-    background-color:#60f;
-    }
-
-/*changes the nav font colors*/
-.navbar-inverse .navbar-nav > li > a{
-    color:#f00; 
-}
-
-
- .jumbotron {
-      background-color :#a366ff;
-      color: #f00;
-      padding: 25px 25px;
-      font-family: Montserrat, sans-serif;
-  }
-    
 
 @media(min-width:768px) {
     body {
@@ -51,4 +31,16 @@ body {
         padding: 15px 0;
     }
 }
+
+/*changes the nav colors*/
+.navbar-inverse .navbar-nav> li> a {   color: #f0f;
+}
+
+ .jumbotron {
+      background-color: #f0f0f0;
+      color: #f00;
+      padding: 25px 25px;
+      font-family: Montserrat, sans-serif;
+  }
+
 
