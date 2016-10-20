@@ -8,6 +8,13 @@ body {
     padding-top: 70px; /* Required padding for .navbar-fixed-top. Change if height of navigation changes. */
 }
 
+*/controls the width of the carousel*/
+.carousel-inner > .item > img,
+  .carousel-inner > .item > a > img {
+      width: 70%;
+      margin: auto;
+  }
+  
 .navbar-fixed-top .nav {
     padding: 15px 0;
 }
