@@ -17,9 +17,14 @@ body {
     background-color:#6600ff;
 }
 
-.navbar-inverse .navbar-nav > li >a{
-    color:#cff;
+/*changes the nav colors*/
+.navbar-inverse .navbar-nav> li > a { color: #f00;
 }
+
+ .jumbotron {
+      background-color: #f00;
+      
+  }
 
 .navbar-fixed-top .navbar-brand {
     padding: 0 15px;
@@ -30,8 +35,4 @@ body {
         padding-top: 100px; /* Required padding for .navbar-fixed-top. Change if height of navigation changes. */
     }
 
-    .navbar-fixed-top .navbar-brand {
-        padding: 15px 0;
-    }
-}
-
+  
