@@ -12,8 +12,17 @@ body {
     padding: 15px 0;
 }
 
+/*changed background-color*/
+.navbar-inverse{
+    background-color:#6600ff;
+}
+
+.navbar-inverse .navbar-nav > li >a{
+    color:#cff;
+}
+
 .navbar-fixed-top .navbar-brand {
-    padding: 15px 0;
+    padding: 0 15px;
 }
 
 @media(min-width:768px) {
@@ -25,17 +34,4 @@ body {
         padding: 15px 0;
     }
 }
-
-.navbar-inverse{background-color:#f5f5dc;
-}
-
-/*changes the nav colors*/
-.navbar-inverse .navbar-nav> li > a{ color: #f00;
-}
-
- .jumbotron {
-      background-color: #f00;
-      
-  }
-
 
