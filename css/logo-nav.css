@@ -12,9 +12,9 @@ body {
     padding: 15px 0;
 }
 
-/*changed background-color*/
+/*navbar background and font colorization*/
 .navbar-inverse{
-    background-color:#6600ff;
+    background-color:#60f;
 }
 
 /*changes the nav colors*/
