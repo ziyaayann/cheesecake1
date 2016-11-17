@@ -9,7 +9,7 @@ body {
 }
 
 .navbar-fixed-top .nav {
-    padding: 15px 0;
+    padding: 15px ;
 }
 
 /*navbar background and font colorization*/
@@ -17,22 +17,83 @@ body {
     background-color: #60f;
 }
 
+.btn{
+        background:#000;
+    color:#fff;
+}
+
 /*changes the nav colors*/
 .navbar-inverse .navbar-nav > li > a{ 
-    color: #f00;
+    color:#fff;
 }
 
- .jumbotron {
-      background-color: #f00;
+.navbar-inverse .navbar-nav > .active {
+    background:#000;
+    color:#fff;
 }
 
-.navbar-fixed-top .navbar-brand {
-    padding: 0 15px;
+navbar-inverse .navbar-nav> li> a: hover{
+    background:#000;
+    color:#fff;
 }
 
+.jumbotron {
+    padding:10px;
+      background:#000;
+    color:#fff;
+}
+
+.carousel-inner > .item > img,
+.carousel-inner >.item > a > img {
+    width: 70%;
+    margin: auto;
+    color:#000;
+}
+
+hr{
+    height:2px;
+    background-color:#000;
+}
+
+.gallery{
+    float:left;
+    margin:10px;
+    padding:5px;
+    width:305px;
+    height:250px;
+    border: 2px solid #000;
+}
+
+.gallery h4{
+    background: #000;
+    color:#fff;
+    font-weight: bolder;
+    font-family: Arial, "Times New Roman" monospace;
+    text-align:center;
+}
+
+.plist-group-item-text{
+    padding-left:5px;
+}
+
+.modal-backdrop {
+    background-color: #000;
+}
+
+.modal-content {
+    background-color: #000;
+}
+
+.modal-body {
+    background-color: #000;
+}
+    
 @media(min-width:768px) {
     body {
         padding-top: 100px; /*Required padding for .navbar-fixed-top. Change if height of navigation changes.*/
 }
 
-  
+.navbar-fixed-top .navbar-brand {
+    padding: 15px 10px;
+    }
+}
